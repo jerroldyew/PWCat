@@ -10,7 +10,7 @@
         "/PWCat/favicon.ico",
         "/PWCat/index.html",
         "/PWCat/inline.318b50c57b4eba3d437b.bundle.js",
-        "/PWCat/main.e17f8e2f9828e52dc520.bundle.js",
+        "/PWCat/main.7cacba44513af543fa18.bundle.js",
         "/PWCat/polyfills.b6b2cd0d4c472ac3ac12.bundle.js",
         "/PWCat/styles.7bd461a98737fde4acd3.bundle.css"
       ],
@@ -26,20 +26,22 @@
         "/PWCat/assets/android-launchericon-512-512.png",
         "/PWCat/assets/android-launchericon-96-96.png"
       ],
-      "patterns": []
+      "patterns": [
+        "https:\\/\\/cataas\\.com\\/.*"
+      ]
     }
   ],
   "dataGroups": [],
   "hashTable": {
     "/PWCat/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
     "/PWCat/assets/android-launchericon-144-144.png": "749f2d6184fcd5fc306e3440c26d17dcee941dc8",
-    "/PWCat/main.e17f8e2f9828e52dc520.bundle.js": "ce6116f87d48b905d76d1c050d63511d1ec14e0d",
+    "/PWCat/main.7cacba44513af543fa18.bundle.js": "72bd4bd1fa53ed272761d5831312914fe1f511a2",
     "/PWCat/assets/android-launchericon-192-192.png": "3ba7558250f6259b9cc8166da0f54f701237c2a1",
     "/PWCat/polyfills.b6b2cd0d4c472ac3ac12.bundle.js": "b092f5c27ff4222179ae3e9e3164c8cc6caa09cf",
     "/PWCat/assets/android-launchericon-512-512.png": "e64be320fc54da963eb46cafd24f38d3ee3e1345",
     "/PWCat/styles.7bd461a98737fde4acd3.bundle.css": "2d54a334bf71713644c3c2f6aeed7da1ab2a647c",
     "/PWCat/assets/android-launchericon-96-96.png": "d694d71099ce618661aaed85d1a220a0281b8d66",
     "/PWCat/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/PWCat/index.html": "95062aef1d8d33a8ee5abb8e1327b84d68be0751"
+    "/PWCat/index.html": "9adfb8086c176cecaab76b77623f0620f6e43f87"
   }
 }
